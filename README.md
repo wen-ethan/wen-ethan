@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Ethan, welcome to my github 🤗
+### welcome to my github 🤗
 
 #### I'm currently working on...
 - My website!
