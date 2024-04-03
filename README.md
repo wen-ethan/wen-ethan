@@ -2,7 +2,7 @@
 
 #### I'm currently working on...
 - My website!
-- AP Physics C notes
+- AP Physics C Notes website 😭
 <!--
 **wen-ethan/wen-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
