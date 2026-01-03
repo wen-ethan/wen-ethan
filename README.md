@@ -2,8 +2,7 @@
 
 #### I'm currently working on...
 - My website!
-  - learning how to use bootstrap too!!
-- AP Physics C Notes website 😭
+  - I'm current rewriting my website as a winter break project, using Bulma CSS!
 <!--
 **wen-ethan/wen-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
