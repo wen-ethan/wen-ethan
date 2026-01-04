@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! 🤗
 
 #### I'm currently working on...
-- My website: I'm current rewriting my website as a winter break project, using Bulma CSS
+- My website: I'm current rewriting my website as a winter break project, using the Bulma CSS framework!
 <!--
 **wen-ethan/wen-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
