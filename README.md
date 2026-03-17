@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! 🤗
 
 #### I'm currently working on...
-- My website: Just finished rewriting my website, now adding more of my projects!
+- My personal website: Rewrote it to use React.JS via Vite!
 <!--
 **wen-ethan/wen-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
