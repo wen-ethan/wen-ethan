@@ -2,7 +2,6 @@
 
 #### I'm currently working on...
 - wen-ethan.net: I've just updated it to include more recent projects!
-- go-board-fpga: Currently following the tutorials found on [Nandland for the Go Board](https://nandland.com/go-board-tutorials/)!
 <!--
 **wen-ethan/wen-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
